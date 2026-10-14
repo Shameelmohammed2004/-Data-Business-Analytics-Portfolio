@@ -7,6 +7,7 @@ Data analyst and business analyst projects — SQL, Excel, Python, and Power BI 
 | Project | Description | Tools |
 |---|---|---|
 | [Adventure Works Sales Dashboard](./data-analyst-projects/01-adventure-works-sales-dashboard) | Sales performance dashboard for a fictional bike retailer — revenue by category, size, and product | Power BI |
+| [Online Store Sales Dashboard](./data-analyst-projects/02-online-store-sales-dashboard) | 10-page dashboard on 50 online store orders — revenue by month, city, category and payment mode, plus repeat-customer analysis | Power BI, DAX |
 
 ## 📈 Business Analyst Projects
 
